@@ -17,3 +17,5 @@ git remote -v
 git remote add NAME
 git push NAME BRANCH
 ```
+## More practice?
+Go to [git-playground](https://github.com/kapunahelewong/git-playground), is a repo where you can safely practice anything you want (create an issue, create a PR, etc).
